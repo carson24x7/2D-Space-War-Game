@@ -7,6 +7,7 @@ Get through all of the levels to the last level. You earn score for killing ever
 ## Controls
 Use WASD to move. D = Move right. S = Move down. A = Move left. W = Move up. Use the SPACEBAR to use shoot. Items automically are used when you pick them up.
 
+#Screenshots of Space War
 ![Start Screen](https://raw.githubusercontent.com/carson24x7/2D-Space-War-Game/main/Screenshots/StartScreen.PNG)
 
 ![Playing Screen](https://raw.githubusercontent.com/carson24x7/2D-Space-War-Game/main/Screenshots/Playing.PNG)
