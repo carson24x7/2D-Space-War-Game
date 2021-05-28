@@ -1,4 +1,4 @@
-## Goals
+## Goal
 Get through all of the levels to the last level. You earn score for killing every enemy and by passing the levels and picking up items. Avoid the asteroids they deal 2 damage each. The other enemies also shoot lasers that deal 1 damage each. Different types of enemies will have different healths and give you more score. You will have 3 hearts and have other items to help you defeat the enemies.
 
 ## Controls
